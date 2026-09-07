@@ -4,3 +4,6 @@
 * 'git log' // visualiza os pontos na linha do tempo / commit
 * 'git status' // informa o estado das alterações do nisso projeto
 * 'git show" // apresenta determinado ponto na história
+* 'git checkout' // manipula as linhas do tempo
+* 'git merge' // une linhas do tempo
+* 'git push' // envia alterações locais para o repositório remoto
